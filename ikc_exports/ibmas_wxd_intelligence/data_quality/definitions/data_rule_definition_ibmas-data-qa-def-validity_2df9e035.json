@@ -1,0 +1,46 @@
+{
+  "id": "2df9e035-5979-4945-bfea-2ac415bd239c",
+  "name": "ibmas-data-qa-def-validity",
+  "type": "data_rule_definition",
+  "description": "here is the text for the data quailoty definication",
+  "search_result": {
+    "metadata": {
+      "name": "ibmas-data-qa-def-validity",
+      "artifact_type": "data_rule_definition",
+      "modified_by": "DAU6Iy6778-9347d154-41c0-4859-a570-1e3f81e0b4c2",
+      "modified_on": "2026-03-04T12:29:59Z",
+      "created_on": "2026-03-04T12:29:59Z",
+      "steward_ids": [
+        "DAU6Iy6778-9347d154-41c0-4859-a570-1e3f81e0b4c2"
+      ],
+      "state": "active",
+      "tags": [],
+      "description": "here is the text for the data quailoty definication"
+    },
+    "entity": {
+      "assets": {
+        "project_id": "ebc5ca93-cc14-495d-9191-87737b9515df",
+        "source_system_history": {
+          "asset_ids": [],
+          "system_ids": []
+        },
+        "rov": {
+          "privacy": "public",
+          "owners": [
+            "DAU6Iy6778-9347d154-41c0-4859-a570-1e3f81e0b4c2"
+          ],
+          "viewers": [],
+          "editors": []
+        }
+      }
+    },
+    "custom_attributes": [],
+    "artifact_id": "2df9e035-5979-4945-bfea-2ac415bd239c",
+    "provider_type_id": "cams",
+    "last_updated_at": 1772627399907,
+    "tenant_id": "4de9efcb457c449c86fceeeb04033404",
+    "semantic_search_result": false,
+    "_score": 3.3639927
+  },
+  "details": null
+}
